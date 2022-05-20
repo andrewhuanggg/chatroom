@@ -1,6 +1,6 @@
 # Live Chatroom 
 
-Live chatroom that allows users to create an account, and chat with other users. The front end technologies used in this project are HTML, CSS, and JavaScript, and the backend is PHP (combined with AJAX calls using JQuery). Login system is secured through hashing and salting of passowrds. 
+Live chatroom that allows users to create an account, and chat with other users. The front end technologies used in this project are HTML, CSS, and JavaScript, and the backend is PHP (combined with AJAX calls using JQuery). Login system is secured through hashing and salting of passwords. 
 
 Instructions on how to test out the chat room on your own local or remote server: 
 1. Download all the files and go into 'config.php' file 
