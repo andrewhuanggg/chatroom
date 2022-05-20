@@ -4,7 +4,7 @@ Live chatroom that allows users to create an account, and chat with other users.
 
 Instructions on how to test out the chat room on your own local or remote server: 
 1. Download all the files and go into 'config.php' file 
-2. Change '$db'variable to a file path where you want to store the chat room's database (remote or local server) 
+2. Change parameter in '$db'variable to a file path where you want to store the chat room's database (remote or local server) 
 
 
 Live link: https://i6.cims.nyu.edu/~alh8007/webdev/macro_assignment_10/index.php 
